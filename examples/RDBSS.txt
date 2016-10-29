@@ -1,0 +1,10 @@
+Student
+SSN
+FName
+LName
+Address
+Age
+;
+12938;Nikos;Papadopoulos;Hydras 28, Athens;42
+18298;Maria;Nikolaou;Kifisias 33, Marousi;34
+81129;Dimitris;Panagiotou;Alamanas 44, Petralona;17
